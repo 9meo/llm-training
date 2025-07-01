@@ -1,4 +1,4 @@
-# 🎯 10 ChatGPT Prompts for Daily Life
+# 🎯 10 Prompts for Daily Life
 
 รวม 10 ตัวอย่าง Prompt ที่ช่วยให้ชีวิตประจำวันของคุณง่ายขึ้น ลองนำไปใช้กันเลย!
 
